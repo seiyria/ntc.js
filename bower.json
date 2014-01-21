@@ -1,0 +1,24 @@
+{
+  "name": "ntc.js",
+  "main": "ntc.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/seiyria/ntc.js",
+  "authors": [
+    "Kyle Kemp <kyle@seiyria.com>",
+    "Chirag Mehta <chirag@chir.ag>"
+  ],
+  "description": "\"Name That Color\" -- give it a hex value, it'll give you a name back.",
+  "keywords": [
+    "color",
+    "name",
+    "hex"
+  ],
+  "license": "Creative Commons 2.5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
